@@ -3,8 +3,9 @@
   "description": "Icq client work with web API (https://web.icq.com)",
   "authors": [
     {
-      "name": "carno",
-      "email": "spamer2000@list.ru"
+      "name": "Aleksandr Kasyanov",
+      "email": "info@carono.ru",
+      "homepage": "http://carono.ru"
     }
   ],
   "require": {
